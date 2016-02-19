@@ -1,5 +1,9 @@
 .top-nav{background:#fff;height: 92px;border-bottom:1px solid #eee;margin-bottom:0px;
 	.navbar-nav{padding: 20px 0 0;
-	 li a{color:#333;font-size:14px;font-weight:700;text-transform:uppercase;letter-spacing:1px;}
+	 li a{color:#333;font-size:14px;font-weight:700;text-transform:uppercase;letter-spacing:1px;
+	 	&:hover{color:#5ff7d2;}
+	 }
 	}
 }
+.navbar-collapse{background:#fff;float: left;
+    width: 99%;border-top:0px;}
