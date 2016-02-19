@@ -1,0 +1,22 @@
+@media only screen and (min-width:768px) and (max-width:1999px)
+{
+.grid figcaption{ 
+	.button-wrap , h3{margin-top:0px}
+	h3{font-size:16px;}
+	.optHead{font-size:14px;}
+	span{font-size:12px;}
+	}
+}
+@media only screen and (min-width:768px) and (max-width:999px)
+{
+	.category-wrap{margin-top:0px;}
+
+}
+@media only screen  and (max-width:999px)
+{
+	.category-wrap{
+		li{margin:5px 2.5%;float:left;}
+	}
+	.color-wrap .color-list li{width:25%;}
+	
+}
